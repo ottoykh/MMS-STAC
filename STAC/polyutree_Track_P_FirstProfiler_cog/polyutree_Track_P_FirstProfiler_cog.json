@@ -38,7 +38,7 @@
   ],
   "properties": {
     "track": "polyutree_Track_P_FirstProfiler_cog",
-    "datetime": "2025-06-16T04:36:06.541364Z"
+    "datetime": "2025-06-16T04:46:06.096056Z"
   },
   "links": [
     {
@@ -64,8 +64,8 @@
     "cog": {
       "href": "https://github.com/ottoykh/MMS-STAC/raw/refs/heads/main/COG/polyutree_Track_P_FirstProfiler_cog.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "title": "Remote COG GeoTIFF",
-      "description": "Cloud-optimized GeoTIFF for polyutree_Track_P_FirstProfiler_cog hosted on GitHub."
+      "title": "COG GeoTIFF",
+      "description": "Cloud-Optimized GeoTIFF for polyutree_Track_P_FirstProfiler_cog hosted on GitHub"
     }
   },
   "collection": "mms_mos"

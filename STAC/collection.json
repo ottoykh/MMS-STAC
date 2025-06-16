@@ -2,13 +2,18 @@
   "type": "Collection",
   "id": "mms_mos",
   "stac_version": "1.1.0",
-  "description": "A collection of GeoTIFFs converted from MMS LAS data in HK1980 grid, each linked to its corresponding COG on GitHub.",
+  "description": "GeoTIFFs converted from MMS LAS data in HK1980, linked to COGs on GitHub.",
   "links": [
     {
       "rel": "root",
       "href": "./collection.json",
       "type": "application/json",
       "title": "MMS Ma On Shan Data"
+    },
+    {
+      "rel": "item",
+      "href": "./polyutree_Track_K_FirstProfiler/polyutree_Track_K_FirstProfiler.json",
+      "type": "application/geo+json"
     },
     {
       "rel": "item",
