@@ -1,0 +1,72 @@
+{
+  "type": "Feature",
+  "stac_version": "1.1.0",
+  "stac_extensions": [],
+  "id": "polyutree_Track_M_FirstProfiler_cog",
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          114.21868580134688,
+          22.405689377609118
+        ],
+        [
+          114.2217940015094,
+          22.405689377609118
+        ],
+        [
+          114.2217940015094,
+          22.408369697103726
+        ],
+        [
+          114.21868580134688,
+          22.408369697103726
+        ],
+        [
+          114.21868580134688,
+          22.405689377609118
+        ]
+      ]
+    ]
+  },
+  "bbox": [
+    114.21868580134688,
+    22.405689377609118,
+    114.2217940015094,
+    22.408369697103726
+  ],
+  "properties": {
+    "track": "polyutree_Track_M_FirstProfiler_cog",
+    "datetime": "2025-06-16T04:46:06.094055Z"
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "MMS Ma On Shan Data"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "MMS Ma On Shan Data"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "MMS Ma On Shan Data"
+    }
+  ],
+  "assets": {
+    "cog": {
+      "href": "https://github.com/ottoykh/MMS-STAC/raw/refs/heads/main/COG/polyutree_Track_M_FirstProfiler_cog.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "title": "COG GeoTIFF",
+      "description": "Cloud-Optimized GeoTIFF for polyutree_Track_M_FirstProfiler_cog hosted on GitHub"
+    }
+  },
+  "collection": "mms_mos"
+}
