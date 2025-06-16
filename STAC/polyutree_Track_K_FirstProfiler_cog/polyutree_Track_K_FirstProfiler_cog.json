@@ -38,34 +38,34 @@
   ],
   "properties": {
     "track": "polyutree_Track_K_FirstProfiler_cog",
-    "datetime": "2025-06-16T05:15:16.670464Z"
+    "datetime": "2025-06-16T05:18:04.478354Z"
   },
   "links": [
     {
       "rel": "root",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "MMS Ma On Shan Data"
+      "title": "MMS Ma On Shan COG Collection"
     },
     {
       "rel": "collection",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "MMS Ma On Shan Data"
+      "title": "MMS Ma On Shan COG Collection"
     },
     {
       "rel": "parent",
       "href": "../collection.json",
       "type": "application/json",
-      "title": "MMS Ma On Shan Data"
+      "title": "MMS Ma On Shan COG Collection"
     }
   ],
   "assets": {
     "cog": {
       "href": "https://github.com/ottoykh/MMS-STAC/raw/refs/heads/main/COG/polyutree_Track_K_FirstProfiler_cog.tif",
       "type": "image/tiff; application=geotiff; profile=cloud-optimized",
-      "title": "Remote COG GeoTIFF",
-      "description": "Cloud-optimized GeoTIFF for polyutree_Track_K_FirstProfiler_cog hosted on GitHub."
+      "title": "COG GeoTIFF",
+      "description": "Remote cloud-optimized GeoTIFF for polyutree_Track_K_FirstProfiler_cog"
     }
   },
   "collection": "mms_mos"
