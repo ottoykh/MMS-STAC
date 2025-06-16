@@ -9,13 +9,7 @@
       "href": "./collection.json",
       "type": "application/json",
       "title": "MMS Ma On Shan Data"
-    },
-    {
-      "rel": "item",
-      "href": "./polyutree_Track_K_FirstProfiler/polyutree_Track_K_FirstProfiler.json",
-      "type": "application/geo+json"
-    },
-    {
+    },    {
       "rel": "item",
       "href": "./polyutree_Track_K_FirstProfiler_cog/polyutree_Track_K_FirstProfiler_cog.json",
       "type": "application/geo+json"
@@ -61,8 +55,8 @@
     "temporal": {
       "interval": [
         [
-          "2020-01-01T00:00:00Z",
-          "2020-12-31T00:00:00Z"
+          "2020-06-02T02:00:00Z",
+          "2020-06-02T05:00:00Z"
         ]
       ]
     }
